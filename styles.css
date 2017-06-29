@@ -1,0 +1,19 @@
+body {
+    background: #000000;
+}
+
+.movie-title {
+    color: white;
+}
+
+.movie-year {
+    color: red;
+}
+
+.movie-tile:hover {
+    background-color: #4c4c4c;
+}
+
+.movie-year .movie-tile:hover {
+    color: blue;
+}
