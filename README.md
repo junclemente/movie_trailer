@@ -1,15 +1,15 @@
-# Movie Trailer Website
+# Project: Movie Trailer Website
 
-## Project: Movie Trailer Website for Fullstack Nanodegree program at [Udacity.com](http://www.udacity.com "Udacity.com")
+## Project for Fullstack Nanodegree program at [Udacity.com](http://www.udacity.com "Udacity.com")
 
 Server-side code is written in Python to display a webpage of movies that show
 the movie title, the year the movie was released, and a movie poster of that particular movie. In addition, when the movie poster is clicked, a modal window will appear that plays the movie trailer.
 
-An example of this code can be found here: ["Movie Trailer Website"](https://junclemente.github.io/movie_trailer/).
+A live site example of this code can be found here: ["Movie Trailer Website"](https://junclemente.github.io/movie_trailer/).
 
 ### How to use
 
-Download this repository onto your computer. 
+Download this [repository](https://github.com/junclemente/movie_trailer) onto your computer. 
 To run the program, you must first create the html page.
 Do this by typing the following in the console: 
 `$ python entertainment_center.py`
