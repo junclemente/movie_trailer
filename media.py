@@ -1,11 +1,11 @@
 class Movie():
     """Create a class Movie
 
-    Keyword arguments:
-    title -- title of the movie
-    year -- release year of movie
-    poster -- URL to the movie poster
-    trailer -- URL to the movie trailer from YouTube
+    Attributes:
+        title (str): title of the movie
+        year (str): release year of movie
+        poster (str):  URL to the movie poster image
+        trailer (str): URL to the movie trailer which must be found on YouTube
     """
     def __init__(self, title, year, poster, trailer):
         print("Create instance of class Movie for: " + title)
