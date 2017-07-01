@@ -3,17 +3,33 @@ body {
 }
 
 .movie-title {
-    color: white;
+    color: #ffffff;
 }
 
 .movie-year {
-    color: red;
+    color: #ffffff;
+}
+
+.movie-tile:hover .movie-year {
+    color: #ff0000;
 }
 
 .movie-tile:hover {
-    background-color: #4c4c4c;
+    background-color: #000000;
 }
 
-.movie-year .movie-tile:hover {
-    color: blue;
+.movie-tile:hover .movie-title {
+    color: #ff0000;
+    font-weight: bold;
 }
+
+.movie-tile img {
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.movie-tile:hover img {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+
