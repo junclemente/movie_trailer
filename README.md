@@ -5,7 +5,7 @@
 Server-side code is written in Python to display a webpage of movies that show
 the movie title, the year the movie was released, and a movie poster of that particular movie. In addition, when the movie poster is clicked, a modal window will appear that plays the movie trailer.
 
-A live site example of this code can be found here: ["Movie Trailer Website"](https://junclemente.github.io/movie_trailer/).
+A live site example of this code can be found here: ["Movie Trailer Website"](https://junclemente.github.io/movie_trailer/fresh_tomatoes).
 
 ### How to use
 
